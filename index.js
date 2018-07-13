@@ -9,3 +9,5 @@ function scuberGreetingForFeet(someNumber) {
     return 'No can do.';
   }
 }
+
+ternaryCheckCity()
