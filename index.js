@@ -17,5 +17,6 @@ function ternaryCheckCity(someCity) {
 }
 
 function switchOnCharmFromTip(someTip) {
-  case generous
+  case generous:
+    
 }
